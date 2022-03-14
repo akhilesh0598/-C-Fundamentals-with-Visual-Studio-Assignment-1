@@ -1,0 +1,16 @@
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.exe
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.deps.json
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.runtimeconfig.json
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.runtimeconfig.dev.json
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.dll
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\bin\Debug\net5.0\ref\CSharpAssignment1.dll
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\bin\Debug\net5.0\CSharpAssignment1.pdb
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.csproj.AssemblyReference.cache
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.AssemblyInfoInputs.cache
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.AssemblyInfo.cs
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.csproj.CoreCompileInputs.cache
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.dll
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\obj\Debug\net5.0\ref\CSharpAssignment1.dll
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.pdb
+D:\Promact Assignment\CSharpAssignment1\CSharpAssignment1\obj\Debug\net5.0\CSharpAssignment1.genruntimeconfig.cache
