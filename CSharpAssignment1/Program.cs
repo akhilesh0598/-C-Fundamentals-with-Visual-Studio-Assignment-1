@@ -7,9 +7,6 @@ namespace CSharpAssignment1
         static void Main(string[] args)
         {
             Console.WriteLine("Hi I am akhilesh");
-
         }
-
-
     }
 }
