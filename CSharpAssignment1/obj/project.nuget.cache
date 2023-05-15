@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bIehHkt6/EHh1bVDHWLi8mFCxeK6g/tiTmkFs03n6X9yAABlE2dgvgRvwZkSBXO46csAb4/SZOc9J/v0LoK6FQ==",
+  "dgSpecHash": "P7n7PR+1DK/1fp1wOKU+Bp1G4JDz8335vHjL8p/trsjJt9Z/nDJ+pL6ZeNN4vJC0IEkwQCAAC3z2QxKOBFBKsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\er220\\OneDrive\\Desktop\\New folder\\GitTesting\\-C-Fundamentals-with-Visual-Studio-Assignment-1\\CSharpAssignment1\\CSharpAssignment1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Github Tutorial\\-C-Fundamentals-with-Visual-Studio-Assignment-1\\CSharpAssignment1\\CSharpAssignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
