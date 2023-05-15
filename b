@@ -1,1 +1,0 @@
-ganesh chutiya ladka hai.
